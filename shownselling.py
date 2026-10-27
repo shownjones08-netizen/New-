@@ -34,16 +34,16 @@ from pyrogram.errors import (
 # ================================================================
 # CONFIGURATION
 # ================================================================
-API_ID = 39052980
-API_HASH = "5b0b6f9aedd2113a4a591dbcde61be43"
-BOT_TOKEN = "8880542451:AAEDzuV4wj7NhHKpT61iVDQStfkaVuJ2ak8"
-ADMIN_ID = 8776447116
-LOG_CHANNEL = "@upilootpay"
-UPI_ID = "vanshzx@fam"
-DEFAULT_2FA = "Skull@2026"
-DEFAULT_NAME = "Skull-Store"
-SUPPORT_USER = "@itsukiarai"
-BOT_NAME = "💀 Skull Account Store"
+API_ID = 36841145
+API_HASH = "88a298654d3fbf4723948fbe0df7fbf2"
+BOT_TOKEN = "8698203134:AAGg98GW0WnEHIF3Cb3LZWZKq2rkWp3z93U"
+ADMIN_ID = 8984851474
+LOG_CHANNEL = "@TgSmsOtplogs"
+UPI_ID = "venkatesh1859@fam"
+DEFAULT_2FA = "1578"
+DEFAULT_NAME = "Shown Store"
+SUPPORT_USER = "@WhoIsShown"
+BOT_NAME = "💀 Shown Account Store"
 WELCOME_IMG = "https://www.image2url.com/r2/default/images/1776736994026-c9433667-f8e6-42f7-9220-5a964cbcbf40.png"
 
 SESSIONS_DIR = "session"
